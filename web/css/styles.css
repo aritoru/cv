@@ -149,9 +149,9 @@ header{
 	
 	width: 100%;
 	height:100px;
-	background:url(../images/bg.png) no-repeat;
+	/*background:url(../images/bg.png) no-repeat;*/
 	background-position: center;	
-border-bottom: 3px solid #9acd32;
+border-bottom: 3px dotted #9acd32;
 	display:block;
 
 
@@ -243,6 +243,10 @@ footer{
 	padding-right:100px;
 	margin-bottom:10px;
 	}
+    
+    .news ul {
+      margin-bottom: 30px;
+    }
 	
 .group2 {
 	float: left;
