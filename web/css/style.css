@@ -1143,5 +1143,13 @@ footer #to-top:hover{ opacity: 0.7 }
 	color: #888888;
 }
 
+/******************************************/
+/* Extended CSS by Aritoru */
+
+span.orange-coded {
+  color: #FE8300;
+  font-weight: bold;
+}
+
 
 
