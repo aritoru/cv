@@ -49,7 +49,7 @@
 
 
     <!-- GOOGLE FONTS -->
-    <link href='http://fonts.googleapis.com/css?family=Allan:700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
 
     <!-- Flex Slider -->
     <link rel="stylesheet" href="css/flexslider.css" >

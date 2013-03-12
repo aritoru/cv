@@ -17,7 +17,8 @@
 
     <div class="wrapper">
 
-        <a href="index.php" id="logo"><img  src="img/logo.png" alt="home"></a>
+        <?php /* ?><a href="index.php" id="logo"><img  src="img/logo.png" alt="home"></a><?php */ ?>
+        <a href="index.php" id="logo"><h1 id="logoText"><span class="orangized">A</span>ritoru.com</h1></a>
 
         <nav>
             <ul id="nav" class="sf-menu">
