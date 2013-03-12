@@ -58,6 +58,8 @@ body a:hover {
 	height: 30px;
 	padding: 20px 40px 10px 40px;
 	display: block;
+	-moz-border-radius: 1em 4em 1em 4em;
+	border-radius: 1em 4em 1em 4em;
 }
 
 span.orangized {
