@@ -1,7 +1,7 @@
 <!-- masthead -->
 <div id="masthead">
-	<span class="head"><span class="orangized">Aitor Ibaceta</span></span><span class="subhead">curriculum
-		vitae</span>
+	<span class="head"><span class="orangized">Aitor Ibaceta</span></span><span class="subhead">Curriculum
+		Vitae</span>
 	<ul class="breadcrumbs">
 		<li><a href="index.php">home</a></li>
 		<li>/ curriculum vitae</li>
@@ -52,9 +52,9 @@
 		</p>
 		<p>
 			I was hired to build the IT architecture from scratch. I am in charge
-			of the Company's IT Team. This team manages all the technical aspects
+			of the company's IT Team. This team manages all the technical aspects
 			of the company (Servers, Databases, PHP webapps, Public API's and
-			Android&amp;iOs native apps). Plus, i am driving the change to an
+			Android&amp;iOs native apps). Plus, I am driving the change to an
 			Agile Methodology into the company, acting as Scrum Master. We are
 			using technologies such as <em>Symfony</em>, <em>Amazon WS</em>, <em>MongoDB</em>,
 			<em>Jenkins</em> and <em>Ember.js</em>.
@@ -65,7 +65,7 @@
 	<h2 class="heading">I have been working as..</h2>
 
 	<div class="block">
-		<h3 class="heading">Web Devel Manager at Fon.com</h3>
+		<h3 class="heading">Web Development Manager at Fon.com</h3>
 		<p>
 			<img src="img/companies/fon.png"
 				style="float: left; margin-right: 5px;" /><a
@@ -80,8 +80,8 @@
 			</code>
 		</p>
 		<p>I was in charge of the PHP Web Devel Team since my first year in
-			the company, with a 3 to 6 members team. Our mission in FON was
-			develop every frontend app related to the communication with users
+			the company, managing a team of 6 members. Our mission in FON was to
+			develop every frontend webapp related to the communication with users
 			and partners, plus the maintenance of one of the core functionalities
 			of the company, the Captive Portal System.</p>
 
@@ -96,7 +96,7 @@
 			<i>Sept 2005 - June 2006</i>
 		</p>
 		<p>
-			Developing a managing web-app for the State Public Libraries Office
+			Developing a managing a webapp for the State Public Libraries Office
 			(dependant of the Spanish Education and Science Office) using a MVC
 			PHP Framework, <em>ZDE+Propel</em>.
 		</p>
@@ -108,7 +108,7 @@
 			<i>Feb 2004 - Sept 2005</i>
 		</p>
 		<p>
-			I was in charge of development and maintenance of corporate intranet
+			I was in charge of developing and maintain the corporate intranet
 			as Analyst and developer, using <em>Joomla</em> (formerly Mambo). The
 			PHP development team was composed by 2 people.
 		</p>
@@ -120,21 +120,21 @@
 	<div class="one-half">
 
 		<p>
-			<span class="orangized"><strong>TrastosDeGuerra.com</strong></span><br />Blizzard official World of
-			Warcraft Fansite<br /> <i>CoFounder</i>
+			<span class="orangized"><strong>TrastosDeGuerra.com</strong></span><br /><i>June 2007 - October 2010</i><br />Blizzard official World of
+			Warcraft Fansite<br /> <i>Founder</i><br />Now known as <a href="http://www.wowsfera.com">WowSfera</a>
 		</p>
 		<p>
-			<span class="orangized"><strong>Krenfen.com</strong></span><br />Best band ever!<br /> <i>Conselour</i>
+			
 		</p>
 	</div>
 
 	<div class="one-half last">
 		<p>
-			<span class="orangized"><strong>PlanetaWOW.com</strong></span><br />Blogging network for MMORPG
-			gamers<br /> <i>CoFounder</i>
+			<span class="orangized"><strong>PlanetaWOW.com</strong></span><br /><i>May 2008 - October 2010</i><br />Blogging network for MMORPG
+			gamers<br /> <i>Founder</i>
 		</p>
 		<p>
-			<span class="orangized"><strong>otraPeich.com</strong></span><br />Best piech ever!<br /> <i>Conselour</i>
+			<?php /* <span class="orangized"><strong>otraPeich.com</strong></span><br />Best piech ever!<br /> <i>Conselour</i> */ ?>
 		</p>
 	</div>
 
@@ -142,15 +142,21 @@
 	<h2 class="heading">I have studied...</h2>
 	<div class="one-half">
 		<p>
-			<span class="orangized"><strong>Ingeniería Técnica en Informática de Sistemas</strong</span><br />Universidad
-			Politécnica de Madrid
+			<span class="orangized"><strong>Ingeniería Técnica en Informática de Sistemas</strong></span><br />Universidad Politécnica de Madrid
 		</p>
 	</div>
 
+	<div class="one-half last">
+		<p>
+			<span class="orangized"><strong>Agile Projects: Acting as Product Owner</strong></span><br />FON internals
+		</p>
+	</div>
+        
+        
 	<div class="clearfix"></div>
 	<h2 class="heading">Anything else?</h2>
 
-	<div class="one-third">
+	<div class="one-half">
 		<h3 class="heading">Languages</h3>
 		<p>
 			<span class="orangized"><strong>Spanish</strong></span><br />Native
@@ -163,25 +169,19 @@
 		</p>
 
 	</div>
-	<div class="one-third">
+	<div class="one-half last">
 
 		<h3 class="heading">Interests</h3>
 		<p>
-			<span class="orangized"><strong>Learn</strong></span><br />I'm very curious
+			<span class="orangized"><strong>Learn</strong></span><br />I'm very curious and proactive in learning new technologies
 		</p>
 		<p>
-			<span class="orangized"><strong>Music</strong></span><br />I enjoy to play some instruments
+			<span class="orangized"><strong>Music</strong></span><br />I enjoy to play the bass in a band called <a target="_blank" href="https://www.facebook.com/Krenfen">Krenfen</a>
 		</p>
 		<p>
-			<span class="orangized"><strong>Travel</strong></span><br />I love to discover new places
+			<span class="orangized"><strong>Travel</strong></span><br />I love to discover new places and cultures
 		</p>
 
-	</div>
-
-
-	<div class="one-third last">
-		<h3 class="heading">Travels</h3>
-		<p>I would like to work everywhere in the world.</p>
 	</div>
 
 	<div class="clearfix"></div>
@@ -208,8 +208,6 @@
 			<li><img src="img/icon-address.png" alt="phone">&nbsp;Madrid (Spain)</li>
 			<li><img src="img/icon-email.png" alt="phone">&nbsp;aitor.ibaceta@gmail.com</li>
 		</ul>
-		<br /> <br />
-		<p>Lalalalalalalalalala</p>
 
 	</div>
 </aside>

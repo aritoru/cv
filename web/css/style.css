@@ -1101,3 +1101,8 @@ span.orange-coded {
 	color: #FE8300;
 	font-weight: bold;
 }
+
+div#insta-plugin {
+    text-align: center;
+    margin: auto;
+}

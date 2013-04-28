@@ -1,6 +1,8 @@
 		<footer>
 			<div class="wrapper">
-			
+                            <p>&nbsp;</p>
+                            <center><br /><br />Layout based on MODUS<br />Powered by Symfony</center>
+			<?php /*
 				<ul id="footer-cols">
 					
 					<li class="first-col">
@@ -52,6 +54,6 @@
 				
 				
 			</div>
-			
+			*/ ?>
 			<div id="to-top"></div>
 		</footer>
